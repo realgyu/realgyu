@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realgyu
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python and sql.
+- 🧑‍💻 I’m currently learning python and sql.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me realgyu1110@gmail.com
 
